@@ -1,39 +1,28 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Project Name
+PhoneNumberField
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+## Description
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
+The PhoneNumber Field package is a utility for handling phone number inputs. It provides a customizable input field that validates and formats phone numbers according to the specified country code.
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+With the PhoneNumber Field package, you can easily integrate phone number inputs, allowing users to enter their phone numbers in a standardized format. The package supports automatic formatting of phone numbers as the user types, making it more user-friendly and reducing input errors.
 
-## Features
+To use the PhoneNumber Field package, simply install it as a dependency in your project. Then, you can import the PhoneNumberField component and include it in your form. The component takes care of validating and formatting the phone number input, ensuring that only valid phone numbers are submitted.
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+This package is licensed under the MIT License, so you are free to use it in your projects, both personal and commercial. If you have any questions or need support, feel free to reach out to the author, Dhaval Tarsariya, via email or GitHub.
 
-## Getting started
+## Installation
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+1. Clone the repository.
+2. Install the dependencies.
+3. Run the project.
 
-## Usage
+## License
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+This project is licensed under the [MIT License](LICENSE).
 
-```dart
-const like = 'sample';
-```
+## Contact
 
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+- Author: Dhaval Tarsariya
+- Email: tarsariyadd@gmail.com
+- GitHub: [Your GitHub Profile](https://github.com/Ddtarsariya/)
